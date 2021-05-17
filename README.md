@@ -1,1 +1,1 @@
-# mic-clg
+# mic-clg of technology
